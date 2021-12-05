@@ -1,6 +1,6 @@
 # BiscuitQualityAssuaranceSystemDataBase
 
-Prerequisites
+Prerequisite
 •	Microsoft SQL Server Management Studio 2018 should be installed environment
 
 Step1
